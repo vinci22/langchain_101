@@ -1,1 +1,1 @@
-# langchain_101
+# A catalog of app base on AI using langchain.
